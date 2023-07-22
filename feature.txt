@@ -4,3 +4,4 @@
 
     V2 : Calculator + Camera
 
+    V3 : multimedia + Internet
