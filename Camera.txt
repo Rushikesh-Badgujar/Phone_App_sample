@@ -1,0 +1,2 @@
+
+    This is a camera added in version v2
